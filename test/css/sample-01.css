@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrap {
+    width: 500px;
+}
+
+.box {
+    backbround-color: white;
+}
