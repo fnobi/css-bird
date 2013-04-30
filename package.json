@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "analyze css.",
   "main": "index.js",
+  "bin": "bin/css-bird",
   "scripts": {
     "test": "mocha"
   },

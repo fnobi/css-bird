@@ -10,3 +10,11 @@ body {
 .box {
     backbround-color: white;
 }
+
+#wrap .contArticle {
+    background-color: gray;
+}
+
+.prev,.next {
+    text-decoration: none;
+}
